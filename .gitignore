@@ -57,4 +57,5 @@ dkms.conf
 # STM32Cube specific folders
 STM32CubeIDE/Debug/makefile
 Debug/makefile
-.settings
+.settings/language.settings.xml
+.settings/stm32cubeide.project.prefs
